@@ -1,5 +1,10 @@
 ## Segementing Water Bodies in Satellite Images
 
+## Members
+
+Anuj Zore (https://www.linkedin.com/in/anuj-zore-806b3112a/)
+Ketki Kinkar (https://www.linkedin.com/in/ketkikinkar/)
+
 ## Architecture
 
 <img width="661" alt="archi" src="https://github.com/ZoreAnuj/Attenstion_UNet/assets/95142805/25fbe352-eb8f-4c9d-9e94-777a11397cf7">
